@@ -1,3 +1,4 @@
+I used React Js to make a basic working calculator.
 <<<<<<< HEAD
 # React + Vite
 
